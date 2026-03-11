@@ -6,18 +6,17 @@ This is our website yay!
 
 Welcome to the Carleton University Data Science Society. We are awesome.
 
-## Latest Articles
+## Latest Blog Posts
 
-::: {#latest-articles}
+::: {#latest-blog-posts}
 :::
 
 ```{=quarto}
 ---
 listing:
-  contents: pages
+  contents: blog
   sort: "date desc"
   limit: 3
   type: grid
   excerpt-length: 20
 ---
-
