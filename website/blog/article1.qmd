@@ -1,8 +1,8 @@
 ---
-title: "First Article"
+title: "First blog post"
 date: 2026-03-10
-author: "Meow"
-description: "Introduction blah blah."
+author: "Sofia Balaceanu"
+description: "DataSoc's first blog post."
 ---
 
-This is our first club article :P
+This is our first blog post! 
