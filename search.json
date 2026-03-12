@@ -7,25 +7,11 @@
     "text": "About this site"
   },
   {
-    "objectID": "blog/article1.html",
-    "href": "blog/article1.html",
-    "title": "First Article",
+    "objectID": "about/team.html",
+    "href": "about/team.html",
+    "title": "Our Team",
     "section": "",
-    "text": "This is our first club article :P"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "CU DataSoc",
-    "section": "",
-    "text": "This is our website yay!\nWelcome to the Carleton University Data Science Society. We are awesome."
-  },
-  {
-    "objectID": "index.html#latest-blog-posts",
-    "href": "index.html#latest-blog-posts",
-    "title": "CU DataSoc",
-    "section": "Latest Blog Posts",
-    "text": "Latest Blog Posts"
+    "text": "Ivy Hall\n\nPresident\n\nIvy is DataSoc’s first president, and one of the first students to ever be enrolled in Carleton’s Data Science program (Concentration in AI, with a minor in Math). She is currently in her third year of studies. R is her programming language of choice.\n\n\n\n\n\nSofia Balaceanu\n\nVice President Internal\n\nSofia is a third year student in CAMS (Concetraion in Applied Statistics and Probability, Minor in History), and also volunteers for the Math & Stats Society. R is her favourite programming language.\n\n\n\n\n\nTomas McNamer\n\nTech Lead\n\nTomas is a third year Math student, and also the president of the Math & Stats Society for the 2025/2026 academic year. Somewhat of a polyglot, he likes Python, Julia and R for data science problems."
   },
   {
     "objectID": "blog.html",
@@ -35,10 +21,31 @@
     "text": "Welcome to blog, where members can publish articles about their data science related interests, experiences, or really anything. To submit an post for consideration, please do something.\n\n\n\n\n\n\n\n\n\n\n\nFirst Article\n\n\nIntroduction blah blah.\n\n\n\nMeow\n\n\nMar 10, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "about/team.html",
-    "href": "about/team.html",
-    "title": "Our Team",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CU DataSoc",
     "section": "",
-    "text": "Ivy Hall\n\nPresident\n\nIvy is DataSoc’s first president, and one of the first students to ever be enrolled in Carleton’s Data Science program (Concentration in AI, with a minor in Math). She is currently in her third year of studies. R is her programming language of choice.\n\n\n\n\n\nSofia Balaceanu\n\nVice President Internal\n\nSofia is a third year student in CAMS (Concetraion in Applied Statistics and Probability, Minor in History), and also volunteers for the Math & Stats Society. R is her favourite programming language.\n\n\n\n\n\nTomas McNamer\n\nTech Lead\n\nTomas is a third year Math student, and also the president of the Math & Stats Society for the 2025/2026 academic year. Somewhat of a polyglot, he likes Python, Julia and R for data science problems."
+    "text": "Welcome to the Carleton University Data Science Society."
+  },
+  {
+    "objectID": "index.html#latest-blog-posts",
+    "href": "index.html#latest-blog-posts",
+    "title": "CU DataSoc",
+    "section": "Latest Blog Posts",
+    "text": "Latest Blog Posts"
+  },
+  {
+    "objectID": "blog/article1.html",
+    "href": "blog/article1.html",
+    "title": "First Article",
+    "section": "",
+    "text": "This is our first club article :P"
+  },
+  {
+    "objectID": "about/faq.html",
+    "href": "about/faq.html",
+    "title": "FAQ",
+    "section": "",
+    "text": "TipWho can join DataSoc?\n\n\n\n\n\nDataSoc is open to all Carleton University students interested in data science, no matter your program."
   }
 ]
