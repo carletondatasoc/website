@@ -1,0 +1,64 @@
+---
+title: "Data Science Bookshelf"
+author: "DataSoc Community"
+description: "Our latest data related reads."
+---
+
+## Books
+
+::: {.book-entry}
+
+![](../images/blog_photos/bookshelf/vanderplas.jpg)
+
+::: {.book-text}
+
+### Python Data Science Handbook
+
+<div class="book-author">Jake VanderPlas</div>
+
+This book teaches me things.
+
+[Find this book (first edition) at the MacOdrum Library](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/1jui968/alma991022762546905153)
+
+:::
+:::
+
+::: {.book-entry}
+
+![](../images/blog_photos/bookshelf/criado_perez.jpg)
+
+::: {.book-text}
+
+### Invisible Women: Data Bias in a World Designed for Men
+
+<div class="book-author">Caroline Criado Perez</div>
+
+This book explores the gender data gap.
+
+[Find this book at the MacOdrum Library](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/1jui968/alma991022821319705153)
+
+:::
+:::
+
+::: {.book-entry}
+
+![](../images/blog_photos/bookshelf/oneill.jpg)
+
+::: {.book-text}
+
+### Weapons of Math Destruction
+
+<div class="book-author">Cathy O'Neil</div>
+
+This book explores weapons of math destruction.
+
+[Find this book at the MacOdrum Library](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/1jui968/alma991022959533205153)
+
+:::
+:::
+
+## Articles 
+
+## Papers
+
+## Podcasts

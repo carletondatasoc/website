@@ -4,15 +4,6 @@ title: "CU DataSoc"
 
 Welcome to the Carleton University Data Science Society.
 
-## Who are we?
-
-We are data. Yes.
-
-```{r}
-source("images/plots/plots.R")
-program_plot("2025/2026")
-```
-
 ## Latest blog posts
 
 ::: {#latest-blog-posts}

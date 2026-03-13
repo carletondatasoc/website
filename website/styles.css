@@ -57,3 +57,45 @@
 .anchorjs-link {
   display: none;
 }
+
+/* books page */
+.book-entry {
+  display: flex;
+  gap: 22px;
+  margin-bottom: 40px;
+  align-items: flex-start;
+}
+
+.book-entry img {
+  width: 120px;
+  min-width: 120px;
+  border-radius: 6px;
+}
+
+.book-text h3 {
+  margin-top: 0;
+  margin-bottom: 4px;
+}
+
+.book-author {
+  font-weight: 600;
+  color: #3d3d3f;
+  margin-bottom: 10px;
+}
+
+.book-entry {
+  border-bottom: 1px solid #e9ecef;
+  padding-bottom: 30px;
+}
+
+@media (max-width: 700px) {
+  .book-entry {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .book-entry img {
+    width: 150px;
+  }
+}
