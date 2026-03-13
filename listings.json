@@ -1,13 +1,15 @@
 [
   {
-    "listing": "/blog.html",
+    "listing": "/index.html",
     "items": [
+      "/blog/bookshelf.html",
       "/blog/article1.html"
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/blog.html",
     "items": [
+      "/blog/bookshelf.html",
       "/blog/article1.html"
     ]
   }

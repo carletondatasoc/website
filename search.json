@@ -11,14 +11,42 @@
     "href": "about/team.html",
     "title": "Our Team",
     "section": "",
-    "text": "Ivy Hall\n\nPresident\n\nIvy is DataSoc’s first president, and one of the first students to ever be enrolled in Carleton’s Data Science program (Concentration in AI, with a minor in Math). She is currently in her third year of studies. R is her programming language of choice.\n\n\n\n\n\nSofia Balaceanu\n\nVice President Internal\n\nSofia is a third year student in CAMS (Concetraion in Applied Statistics and Probability, Minor in History), and also volunteers for the Math & Stats Society. R is her favourite programming language.\n\n\n\n\n\nTomas McNamer\n\nTech Lead\n\nTomas is a third year Math student, and also the president of the Math & Stats Society for the 2025/2026 academic year. Somewhat of a polyglot, he likes Python, Julia and R for data science problems."
+    "text": "Ivy Hall\n\nPresident\n\nIvy is DataSoc’s first president, currently in her third year of studies in Data Science (Concentration in AI, with a minor in Math). She is also an active member of the Carleton U Debate Society. R is her programming language of choice.\n\n\n\n\n\nSofia Balaceanu\n\nVice President Internal\n\nSofia is a third year student in CAMS (Concetraion in Applied Statistics and Probability, Minor in History), and also volunteers for the Math & Stats Society. R is her favourite programming language.\n\n\n\n\n\nTomas McNamer\n\nTech Lead\n\nTomas is a third year Math student, and also the president of the Math & Stats Society for the 2025/2026 academic year. Somewhat of a polyglot, he likes Python, Julia and R for data science problems."
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog Posts",
+    "objectID": "blog/bookshelf.html",
+    "href": "blog/bookshelf.html",
+    "title": "Data Science Bookshelf",
     "section": "",
-    "text": "Welcome to blog, where members can publish articles about their data science related interests, experiences, or really anything. To submit an post for consideration, please do something.\n\n\n\n\n\n\n\n\n\n\n\nFirst blog post\n\n\nDataSoc’s first blog post.\n\n\n\nDataSoc Team\n\n\nMar 10, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "Jake VanderPlas\n\nThis book teaches me things.\nFind this book (first edition) at the MacOdrum Library\n\n\n\n\n\n\n\nCaroline Criado Perez\n\nThis book explores the gender data gap.\nFind this book at the MacOdrum Library\n\n\n\n\n\n\n\nCathy O’Neil\n\nThis book explores weapons of math destruction.\nFind this book at the MacOdrum Library"
+  },
+  {
+    "objectID": "blog/bookshelf.html#books",
+    "href": "blog/bookshelf.html#books",
+    "title": "Data Science Bookshelf",
+    "section": "",
+    "text": "Jake VanderPlas\n\nThis book teaches me things.\nFind this book (first edition) at the MacOdrum Library\n\n\n\n\n\n\n\nCaroline Criado Perez\n\nThis book explores the gender data gap.\nFind this book at the MacOdrum Library\n\n\n\n\n\n\n\nCathy O’Neil\n\nThis book explores weapons of math destruction.\nFind this book at the MacOdrum Library"
+  },
+  {
+    "objectID": "blog/bookshelf.html#articles",
+    "href": "blog/bookshelf.html#articles",
+    "title": "Data Science Bookshelf",
+    "section": "Articles",
+    "text": "Articles"
+  },
+  {
+    "objectID": "blog/bookshelf.html#papers",
+    "href": "blog/bookshelf.html#papers",
+    "title": "Data Science Bookshelf",
+    "section": "Papers",
+    "text": "Papers"
+  },
+  {
+    "objectID": "blog/bookshelf.html#podcasts",
+    "href": "blog/bookshelf.html#podcasts",
+    "title": "Data Science Bookshelf",
+    "section": "Podcasts",
+    "text": "Podcasts"
   },
   {
     "objectID": "index.html",
@@ -31,8 +59,15 @@
     "objectID": "index.html#latest-blog-posts",
     "href": "index.html#latest-blog-posts",
     "title": "CU DataSoc",
-    "section": "Latest Blog Posts",
-    "text": "Latest Blog Posts"
+    "section": "Latest blog posts",
+    "text": "Latest blog posts"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog Posts",
+    "section": "",
+    "text": "Welcome to blog, where members can publish articles about their data science related interests, experiences, or really anything. To submit an post for consideration, please do something.\n\n\n\n\n\n\n\n\n\n\n\nData Science Bookshelf\n\n\nOur latest data related reads.\n\n\n\nDataSoc Community\n\n\n\n\n\n\n\n\n\n\nFirst blog post\n\n\nDataSoc’s first blog post.\n\n\n\nDataSoc Team\n\n\nMar 10, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog/article1.html",
