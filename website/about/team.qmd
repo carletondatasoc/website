@@ -10,7 +10,7 @@ title: "Our Team"
 <h3>Ivy Hall</h3>
 <strong>President</strong>
 
-<p>Ivy is DataSoc's first president, and one of the first students to ever be enrolled in Carleton's Data Science program (Concentration in AI, with a minor in Math). She is currently in her third year of studies. R is her programming language of choice.</p>
+<p>Ivy is DataSoc's first president, currently in her third year of studies in Data Science (Concentration in AI, with a minor in Math). She is also an active member of the Carleton U Debate Society. R is her programming language of choice.</p>
 </div>
 
 <div class="team-member">
