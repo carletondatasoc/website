@@ -22,11 +22,11 @@ jobs:
         uses: quarto-dev/quarto-actions/setup@v2
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      
-      - name: Install Ubuntu dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y curl libcurl4-openssl-dev libfontconfig1-dev libcairo2-dev libmagick++-dev libharfbuzz-dev libfribidi-dev
+
+      - uses: awalsh128/cache-apt-pkgs-action@latest
+        with:
+          packages: curl libcurl4-openssl-dev libfontconfig1-dev libcairo2-dev libmagick++-dev libharfbuzz-dev libfribidi-dev
+          version: 1.0
       
       # From https://github.com/r-lib/actions/tree/v2-branch/setup-r
       - name: Setup R
